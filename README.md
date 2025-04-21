@@ -113,7 +113,7 @@ This section describes deploying our deep learning models for vegetation analysi
 ![Interface Image](images/Interface.png)
 
 ##### Prediction
-![Prediction Image](images/pPrediction.png)
+![Prediction Image](images/Prediction.png)
 
 ##### Dashboard
 ![Dashboard Image](images/Dashboard.png)
