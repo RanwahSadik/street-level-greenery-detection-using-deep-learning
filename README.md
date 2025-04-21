@@ -18,6 +18,14 @@ We utilized advanced **semantic segmentation models** (U-Net, DeepLabv3+, PSPNet
 
 ---
 
+## 📸 Custom Dataset
+
+This project utilizes a **custom dataset** specifically collected for the purpose of assessing urban greenery. The data was gathered using the **Google Street View Static API**, allowing us to extract **9,652 panoramic street-level images** from various locations across **Makkah Province, Saudi Arabia**. Each geolocation point includes four directional views (**0°**, **90°**, **180°**, **270°**) to ensure comprehensive coverage.
+
+> 📌 *This dataset is custom-built for this project and is not sourced from public repositories. Images were retrieved and processed in compliance with Google Maps Platform’s terms of service.*
+
+---
+
 ## 🛠️ Methodology
 
 ### 🔍 Data Collection
