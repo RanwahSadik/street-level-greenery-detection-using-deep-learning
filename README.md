@@ -108,11 +108,12 @@ This section describes deploying our deep learning models for vegetation analysi
 
 ### 🖼️ Streamlit Application Screenshots
 
-- **Interface**:  
-  ![Interface](https://github.com/yourusername/yourrepo/blob/main/interface.png)
 
-- **Prediction**:  
-  ![Prediction](https://github.com/yourusername/yourrepo/blob/main/prediction.png)
+##### Interface
+![Interface Image](images/Interface.png)
 
-- **Dashboard**:  
-  ![Dashboard](https://github.com/yourusername/yourrepo/blob/main/dashboard.png)
+##### Prediction
+![Prediction Image](images/pPrediction.png)
+
+##### Dashboard
+![Dashboard Image](images/Dashboard.png)
